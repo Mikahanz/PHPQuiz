@@ -1,0 +1,29 @@
+/* #page-container {
+    position: relative;
+    min-height: 10vh;
+  }
+  
+  #content-wrap {
+    padding-bottom: 1rem;    
+  
+  #footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 1rem;            
+  } */
+
+  .loginform{
+      margin-left: 35%;
+      margin-right: 35%;
+  }
+
+  .table1{
+      margin-left: 15%;
+      margin-right: 15%;
+  }
+
+  #text_center{
+    text-align: center;
+  }
+
